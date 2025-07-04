@@ -1,7 +1,7 @@
-# Write a function greet_user(name) that prints "Hello, <name>!".
-
-name = input("Enter your name: ")
-def greet_user():
-    print("Good morning "+name)
-
-greet_user()
+class car:
+    def __init__(self,brand,year):
+        self.year = year 
+        self.brand = brand
+my_car = car("Porsche",2022)
+print(my_car.brand)
+print(my_car.year)
