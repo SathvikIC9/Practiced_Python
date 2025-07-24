@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Smart Bot</title>
+</head>
+<body>
+    <form id="askForm">
+        Ask something: <input name="value" id="value" type="text">
+        <input type="submit" value="Ask">
+    </form>
+    <div id="waitMsg"></div>
+    <div id="answer"></div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
