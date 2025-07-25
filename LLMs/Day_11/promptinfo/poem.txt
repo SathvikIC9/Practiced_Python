@@ -1,0 +1,17 @@
+In Python's land, where coders dream,
+Lives Flask — so light, a gentle stream.
+No bulky frame, no tangled mess,
+Just routes and views — pure code finesse.
+
+A single file, and there you go,
+Your web app starts with just one show.
+With @app.route, the path is set,
+And logic flows without a sweat.
+
+Need forms or JSON? Flask won’t fuss,
+It handles all — no need to cuss.
+Extend with blueprints, Jinja too,
+A web magician’s trusted glue.
+
+So raise your glass, give Flask a cheer,
+For making web dev bright and clear!
