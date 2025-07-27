@@ -1,0 +1,5 @@
+Error: 'charmap' codec can't encode character '\U0001f9f9' in position 40: character maps to <undefined>
+User: poem
+Bot: Here's a short poem: Flask is fast, Flask is light, It makes your backend a delight!
+User: joke
+Bot: Why did the developer go broke? Because he used up all his cache!
